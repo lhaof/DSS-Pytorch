@@ -1,5 +1,6 @@
 # DSS-Pytorch
 
+This is a pytorch implementation of 'Deeply Supervised Salient Object Detection with Short Connections' (DSS).
 
 @article{hou2017deeply,
 title={Deeply Supervised Salient Object Detection with Short Connections},
