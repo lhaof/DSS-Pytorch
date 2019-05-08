@@ -14,11 +14,13 @@ This code is a pytorch implementation of 'Deeply Supervised Salient Object Detec
 ```
 Step 1:
 ```
-Download VGG_ILSVRC_16_layers.caffemodel & VGG_ILSVRC_16_layers_deploy.prototxt (I believe you can find them easily.)
+Download VGG_ILSVRC_16_layers.caffemodel & VGG_ILSVRC_16_layers_deploy.prototxt
+(I believe you can find them easily.)
 ```
 Step 2:
 ```
-Download the source code of Caffe and install it. To find a Caffe code, you may search with keywords 'caffe-dss github'.
+Download the source code of Caffe and install it. To find a Caffe code, you may 
+search with keywords 'caffe-dss github'.
 ```
 Step 3:
 ```
