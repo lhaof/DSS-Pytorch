@@ -8,5 +8,6 @@ journal={computer vision and pattern recognition},
 volume={41},
 number={4},
 pages={5300--5309},
-year={2017}}
+year={2017}
+}
 `
