@@ -292,7 +292,7 @@ class dssloss(nn.Module):
         for i, x in enumerate(x_list[1:]):
             loss += self.weight[i + 1] * nn.BCEWithLogitsLoss(weight=None, size_average=False)(x, label)
         loss /= n 
-        loss /= len(x_list)
+        # loss /= len(x_list)
         return loss
 
 if __name__ == '__main__':
